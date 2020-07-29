@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/habuma/tacocloud-config
+          uri: https://github.com/Wismut/taco_cloud_config_server
 server:
   port: 8888
